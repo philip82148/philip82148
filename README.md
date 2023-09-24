@@ -1,4 +1,4 @@
-# :smile: Hello, I'm Ryota Sasaki.
+# Hello, I'm Ryota Sasaki.
 
 I'm a student software engineer in Japan.
 
