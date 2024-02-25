@@ -17,6 +17,6 @@ I'm a student software engineer in Japan.
     </a>
 </p>
 
-### 📘 Portfolio
+### 📘 Portfolio (Japanese, WIP)
 
-[Portfolio (Japanese, WIP)](https://philip82148.github.io/portfolio/)
+[https://philip82148.github.io/portfolio/](https://philip82148.github.io/portfolio/)
