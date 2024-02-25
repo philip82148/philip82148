@@ -19,4 +19,4 @@ I'm a student software engineer in Japan.
 
 ### 📘 Portfolio (Japanese, WIP)
 
-[https://philip82148.github.io/portfolio/](https://philip82148.github.io/portfolio/)
+[https://philip82148.github.io/portfolio/](https://philip82148.github.io/portfolio/) (作成途中)
