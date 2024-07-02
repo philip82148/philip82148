@@ -16,7 +16,3 @@ I'm a student software engineer in Japan.
         <img alt="Top Langs" height="195px" src="https://github-readme-stats-sooty-nine-75.vercel.app/api/top-langs/?username=philip82148&layout=donut&exclude_repo=github-readme-stats,qutip-tutorials-ipynb,selva,kishukusha-hp-theme,testrepo" />
     </a>
 </p>
-
-### 📘 Portfolio (Japanese, WIP)
-
-[https://philip82148.github.io/portfolio/](https://philip82148.github.io/portfolio/) (作成途中)
