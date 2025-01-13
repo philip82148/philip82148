@@ -21,4 +21,4 @@ I'm a student software engineer in Japan.
 
 ### 📘 Portfolio
 
-[philip82148.dev](https://philip82148.dev/) (Work in Progress)
+<https://philip82148.dev/> (Work in Progress)
